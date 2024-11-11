@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yi Jie Lim</h1>
 <h3 align="center">A Computer Science Student in SETU</h3>
 
-- 🔭 I’m currently working on **CA Exercise 2 – Drinks/Beverages Information System**
+- 🔭 I’m currently working on **Data Structures & Algorithm: Drinks/Beverages Information System**
 
 - 🌱 I’m currently learning **2nd Year Computer Science with Automotive & Automation System**
 
