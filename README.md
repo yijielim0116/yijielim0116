@@ -4,13 +4,13 @@
 
 <div align="center">
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yijielim0116&show_icons=true&locale=en&layout=compact" alt="yijielim0116" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yijielim0116&show_icons=true&locale=en" alt="yijielim0116" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yijielim0116&show_icons=true&locale=en" alt="yijielim0116" /></p>
+</div>
 
 ###
 
 <div align="left">
-  <p>🔭 I’m currently working on <strong>Data Structures & Algorithm: Drinks/Beverages Information System</strong></p>
   <p>🌱 I’m currently studying <strong>2nd Year Computer Science with Automotive & Automation System</strong></p>
   <p>📫 How to reach me: <strong>yijie.lim95@gmail.com</strong></p>
 </div>
