@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <p>🌱 I’m currently <strong>a 3rd Year Computer Science with Automotive & Automation Systems</strong></p>
+  <p>🌱 I’m currently <strong>a 4th Year Computer Science with Automotive & Automation Systems</strong></p>
   <p>📫 How to reach me: <strong>yijie.lim95@gmail.com</strong></p>
 </div>
 
