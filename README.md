@@ -64,8 +64,6 @@ South East Technological University (SETU), Waterford, Ireland · 4th Year
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Yi Jie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yijielim0116&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yijielim0116&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com?user=yijielim0116&theme=github-dark&hide_border=true&background=0d1117)
 </div>
 
