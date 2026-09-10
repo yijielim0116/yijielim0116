@@ -65,8 +65,7 @@ South East Technological University (SETU), Waterford, Ireland · 4th Year
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yijielim0116&color=58a6ff&style=flat-square&label=Profile+Views)
+<img src="https://streak-stats.demolab.com?user=yijielim0116&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 
 </div>
-
 
