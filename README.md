@@ -3,6 +3,7 @@
 # Hi, I'm Yi Jie Lim 👋
 
 **BSc Computer Science with Automotive & Automation Systems**
+<br>
 South East Technological University (SETU), Waterford, Ireland · 4th Year
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi-jie-lim-040116yjl/)
