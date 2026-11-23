@@ -18,9 +18,12 @@ South East Technological University (SETU), Waterford, Ireland · 4th Year
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **ScanHub** | iOS & Android app that digitises fuel delivery discharge forms using on-device OCR, with automated PDF report generation | Swift · SwiftUI · VisionKit · Kotlin · Jetpack Compose |
-| **RxFlow** | Healthcare consultation workflow web app for community pharmacists, built for Ireland's HSE Common Conditions Service | Next.js · React · Tailwind CSS · TypeScript |
-| **Blood Cell Analyser** | Desktop app detecting & classifying blood cells using pixel-level colour segmentation and union-find algorithm | Java · JavaFX · JUnit |
+| **RxFlow** *(Final Year Project)* | Mobile system for structured community pharmacy consultations under Ireland's HSE Common Conditions Service: a data-driven protocol engine, automatic red-flag enforcement and a secure, auditable record of every consultation. Grew out of a [web prototype](https://github.com/yijielim0116/RxFlow-Prototype) | Flutter · Dart · Quarkus · PostgreSQL · Keycloak · Podman · GitHub Actions |
+| **[ScanHub](https://github.com/yijielim0116/ScanHub---iOS)** | iOS & Android app that digitises fuel delivery discharge forms using on-device OCR, with automated PDF report generation | Swift · SwiftUI · VisionKit · Kotlin · Jetpack Compose |
+| **[LaundryTracker](https://github.com/yijielim0116/LaundryTracker)** | Android app for checking laundry machine status, tracking wash and dry cycles, and getting notified when a load is done | Kotlin · Android · Firebase · Google Maps |
+| **[Serverless Movie Cast API](https://github.com/yijielim0116/cad-assignment-2026)** | Serverless REST API for movies, actors and roles on a single-table DynamoDB design, with Cognito user login and API-key admin access across a multi-stack CDK app | TypeScript · AWS CDK · Lambda · API Gateway · DynamoDB · Cognito |
+| **AUTOSAR Wiper/Washer ECU** | Front and rear wiper/washer control system designed as reusable AUTOSAR software components, with the BSW configured, built and tested on a virtual ECU | AUTOSAR · Vector DaVinci · C · CANoe |
+| **[Blood Cell Analyser](https://github.com/yijielim0116/BloodCellAnalyseSystem)** | Desktop app detecting & classifying blood cells using pixel-level colour segmentation and union-find algorithm | Java · JavaFX · JUnit |
 | **Tank Model SiL** | Model-Based Development: MiL → SiL testing pipeline with auto-generated C code via Simulink RTW and CAN bus integration | MATLAB · Simulink · Vector CANoe · CAPL |
 
 ---
