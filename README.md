@@ -24,7 +24,7 @@ South East Technological University (SETU), Waterford, Ireland · 4th Year
 | **[Serverless Movie Cast API](https://github.com/yijielim0116/cad-assignment-2026)** | Serverless REST API for movies, actors and roles on a single-table DynamoDB design, with Cognito user login and API-key admin access across a multi-stack CDK app | TypeScript · AWS CDK · Lambda · API Gateway · DynamoDB · Cognito |
 | **AUTOSAR Wiper/Washer ECU** | Front and rear wiper/washer control system designed as reusable AUTOSAR software components, with the BSW configured, built and tested on a virtual ECU | AUTOSAR · Vector DaVinci · C · CANoe |
 | **[Blood Cell Analyser](https://github.com/yijielim0116/BloodCellAnalyseSystem)** | Desktop app detecting & classifying blood cells using pixel-level colour segmentation and union-find algorithm | Java · JavaFX · JUnit |
-| **Tank Model SiL** | Model-Based Development: MiL → SiL testing pipeline with auto-generated C code via Simulink RTW and CAN bus integration | MATLAB · Simulink · Vector CANoe · CAPL |
+| **[Westbahnhof Car2x Congestion Charge](https://github.com/yijielim0116/Westbahnhof-Car2x-Congestion-Charge)** | C-ITS congestion charge simulation for Wien Westbahnhof: a road side unit reads vehicles' CAM messages, charges cars and buses on every zone entry and broadcasts traffic-density DENMs, with road-hazard scenarios on real OpenStreetMap streets | Vector CANoe.Car2x · CAPL · CAM/DENM |
 
 ---
 
